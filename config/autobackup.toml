@@ -1,0 +1,6 @@
+enableBackup = true
+autoBackup = true
+backupInterval = 60
+backupCommand = ""
+backupWhenExit = false
+saveTimeLeft = true
