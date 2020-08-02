@@ -7,7 +7,6 @@ world/
 patchouli_books/
 .mixin.out/
 .fabric/
-justmap/
 usercache.json
 realms_persistence.json
 *.[oa]
