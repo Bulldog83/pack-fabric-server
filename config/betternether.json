@@ -3523,7 +3523,7 @@
   "biomes": {
     "betternether": {
       "main": {
-        "gravel_desert_chance[def: 1.0]": 1.2,
+        "gravel_desert_chance[def: 1.0]": 1.1,
         "nether_jungle_chance[def: 1.0]": 1.0,
         "wart_forest_chance[def: 1.0]": 1.0,
         "nether_grasslands_chance[def: 1.0]": 1.0,
@@ -3567,11 +3567,11 @@
     },
     "minecraft": {
       "main": {
-        "nether_wastes_chance[def: 1.0]": 1.3,
+        "nether_wastes_chance[def: 1.0]": 1.2,
         "crimson_forest_chance[def: 1.0]": 1.1,
         "warped_forest_chance[def: 1.0]": 1.1,
         "basalt_deltas_chance[def: 1.0]": 1.1,
-        "soul_sand_valley_chance[def: 1.0]": 1.2
+        "soul_sand_valley_chance[def: 1.0]": 1.1
       },
       "variation": {
         "nether_wastes_size[def: 1.0]": 1.0,

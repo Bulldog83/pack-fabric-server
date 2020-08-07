@@ -1,6 +1,6 @@
 {
   "allow_hostile_radar": "true",
-  "allow_waypoints_jumps": "true",
+  "allow_waypoints_jumps": "false",
   "allow_slime_chunks": "true",
   "use_game_rules": "false",
   "allow_creatures_radar": "true",
